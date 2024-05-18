@@ -1,0 +1,248 @@
+
+
+.header{
+    background-image: url(./img/headerimg1.jpg);
+    width: 100%;
+    height: 100vh;
+}
+.text-danger{
+  color: #f64b3c !important;
+}
+.header-text{
+    padding: 20px;
+    margin-top: 90px;
+}
+.header-text h1{
+    color: white;
+    font-size: 80px;
+}
+.header-text p{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.menu{
+  margin-top: 30px;
+}
+.menu ul{
+  list-style: none;
+}
+.menu ul li{
+  display: inline;
+  padding: 25px;
+  margin: 10px;
+}
+.menu ul li a{
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: 0.5s;
+}
+.menu ul li:hover a{
+    color: #f64b3c;
+}
+.logo img{
+    margin-top: 15px;
+}
+.btn{
+  padding: 10px;
+  width: 200px;
+  border-radius: 25px;
+  transition: 0.5s;
+}
+.btn a{
+  text-decoration: none;
+  color: white;
+  transition: 0.5;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.btn:hover{
+    background-color: white;
+}
+.btn:hover a{
+    color: #f64b3c;
+}
+
+.btn-white{
+  background-color: white;
+}
+.btn-white a{
+  color: #f64b3c;
+}
+.btn-white:hover{
+  background-color: #f64b3c;
+}
+.btn-white:hover a{
+  color: white;
+}
+.chef{
+  background-image: url(./img/cover1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+.profile img{
+  width: 150px;
+}
+.profile:hover img{
+  border: 2px solid #f64b3c;
+  border-radius: 50%;
+
+}
+.profile{
+  margin-left: 90px;
+}
+.co{
+  margin-left: 35px;
+}
+.burger{
+  background-color: #f64b3c;
+  width: 100%;
+  height: 100vh;
+}
+.burger-text{
+  margin-top: 200px;
+}
+.burger-text h1{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+.burger-text p{
+  color: white;
+  font-weight: bold;
+}
+.burger1{
+  background-image: url(./img/cover1.jpg);
+  width: 100%;
+  height: 100vh;
+}
+.chef1{
+  background-color: #f64b3c;
+  width: 100%;
+  height: 100vh;
+}
+.chef1 .profile1{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid white;
+  transition: 0.5s;
+}
+.profile1{
+  margin-left: 60px;
+}
+.profile1:hover{
+  border: 2px solid #f6eedf;
+  background-color: white;
+  cursor: pointer;
+}
+.profile1:hover h1{
+  color: #f64b3c !important;
+}
+.profile1:hover h4{
+  color: #f64b3c !important;
+}
+.profile1 h1,h4{
+  font-weight: bold;
+}
+.popular{
+  background-image: url(./img/cover1.jpg);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  
+}
+.card1{
+  width: 300px;
+  height: 400px;
+  background-color: white;
+  padding: 8px;
+  border-radius: 8px;
+  transition: 0.5s;
+}
+
+.card1:hover{
+  border: 1px solid #f64b3c;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.card1 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.barry{
+  background-image: url(./img/demo1.jpg);
+  width: 100%;
+  height: 100vh;
+}
+.barry-text{
+  margin-top: 110px;
+}
+.update{
+  background-image: url(./img/cover1.jpg);
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+.update .fs-1{
+  font-size: 55px !important;
+}
+
+.btns:hover{
+  color: black;
+}
+.input-group{
+  width: 52%;
+  margin: auto;
+  border-radius: none;
+}
+.input-group input{
+ border-radius: 55px;
+}
+
+footer{
+  background-color: #222222;
+  width: 100%;
+  height: 100vh;
+}
+.icon{
+
+}
+.icon ul{
+  list-style: none;
+}
+.icon ul li{
+  display: inline;
+  padding: 10px;
+}
+.icon ul li a{
+  font-size: 25px;
+  color: white;
+ transition: 0.5s;
+}
+.icon ul li:hover a{
+   color: #f64b3c;
+}
+
+.menu1{
+  margin-left: 55px;
+}
+.menu1 ul{
+  list-style: none;
+}
+.menu1 ul li{
+  margin-top: 10px;
+}
+.menu1 ul li a{
+  text-decoration: none;
+  color: white;
+  transform: 0.5s;
+}
+.menu1 ul li:hover a{
+  color: #f64b3c;
+}
